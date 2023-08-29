@@ -5,6 +5,12 @@ I will be implementing an end-to-end machine learning system by with an architec
 
 Summary
 The data ingestion component implements a distributed input pipeline for the Fashion-MNIST dataset with TensorFlow that would make it easy to integrate with distributed model training.
+
+
 Machine learning models and distributed model training logic can be defined in TensorFlow, and then executed in a distributed fashion in the Kubernetes cluster with the help of Kubeflow.
+
+
 Both the single-instance model server and the replicated model servers can be implemented via KServe. The autoscaling functionality of KServe can automatically create additional model serving pods to handle the increasing number of model serving requests.
+
+
 We implemented our end-to-end workflow that includes all the components of our system in Argo Workflows and were able to leverage step memoization to avoid time-consuming and redundant data ingestion step.
