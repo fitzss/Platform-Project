@@ -1,6 +1,8 @@
 # Platform-Project
 A project about building a platform for developers to deliver AI software more efficiently.  
 
+Or this project is going to create a platform to to deliver software for a Computer Vision application more efficiently.  
+
 Platforms are all about system integrations, best practices, and composable services that we can combine to build more complex systems. 
 
 A distributed machine learning system is a distributed system that consists of a pipeline of steps and components responsible for different steps in machine learning applications, such as data ingestion, model training, model serving, etc. It leverages similar patterns and best practices in distributed systems but also patterns are designed specifically to benefit machine learning applications. Through careful design of a distributed machine learning system, the system is more scalable and reliable when handling large scale problems, e.g. large datasets, large models, heavy model-serving traffic, and complicated model selection or architecture optimization.
