@@ -21,6 +21,7 @@ https://www.salaboy.com/
 https://www.manning.com/books/platform-engineering-on-kubernetes
 
 https://www.manning.com/books/deep-learning-with-python
+
 https://learnk8s.io/
 
 
